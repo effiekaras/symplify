@@ -1,3 +1,6 @@
+### Video link
+https://youtu.be/rwcd3v5Mq2w
+
 ### Please list out changes in the directions of your project if the final project is different from your original proposal (based on your stage 1 proposal submission).
 
 One difference in our final project and our proposal is the implementation and usage of personal demographic and profile data. This is because we didn’t find this profile useful to the core application, and we wanted to focus on improving our product for important features instead.
